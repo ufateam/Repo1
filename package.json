@@ -1,0 +1,16 @@
+{
+  "name": "สล็อตแลมโบกินีสายซิ่งห้ามพลาด",
+  "theme": "syntax",
+  "version": "1.223.3",
+  "description": "เว็บเดิมพัน เว็บ UFA ดีไหม ?",
+  "keywords": [
+    "member.ufacash",
+    "ไฮโลออนไลน์ ufa",
+    "ufa เเชมเปียนลีกส์ 2015"
+  ],
+  "repository": "https://github.com/ufateam/test1",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
